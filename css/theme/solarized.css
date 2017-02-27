@@ -80,12 +80,11 @@ body {
  *********************************************/
  .reveal section .header_text {
    margin-top: -10%;
-   padding-bottom: 20px;
+   padding-bottom: 10px;
  }
 
  .reveal section .subheader {
    font-weight: bold;
-   margin: 5% 0;
  }
 
 .reveal p {
