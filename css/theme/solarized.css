@@ -79,7 +79,7 @@ body {
  * OTHER
  *********************************************/
  .reveal section .header_text {
-   margin-top: -20%;
+   margin-top: -10%;
    padding-bottom: 20px;
  }
 
@@ -267,7 +267,9 @@ body {
   max-width: 80px;
 }
 
-
+.reveal section #theory_image {
+  height: 45vh;
+}
 
 .reveal section img.plain {
   border: 0;
