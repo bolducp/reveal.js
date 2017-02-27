@@ -271,6 +271,10 @@ body {
   height: 45vh;
 }
 
+.reveal section #rise_of_english {
+  height: 35vh;
+}
+
 .reveal section img.plain {
   border: 0;
   box-shadow: none; }
