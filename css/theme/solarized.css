@@ -79,7 +79,7 @@ body {
  * OTHER
  *********************************************/
  .reveal section .header_text {
-   margin-top: -10%;
+   top: 0;
    padding-bottom: 10px;
  }
 
@@ -258,7 +258,7 @@ body {
   box-shadow: none;}
 
 .reveal section .book_cover {
-  height: 15vh;
+  height: 10vh;
 }
 
 .reveal section .small_img {
@@ -270,11 +270,11 @@ body {
 }
 
 .reveal section #theory_image {
-  height: 45vh;
+  height: 35vh;
 }
 
 .reveal section #rise_of_english {
-  height: 35vh;
+  height: 28vh;
 }
 
 .reveal section img.plain {
