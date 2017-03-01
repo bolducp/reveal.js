@@ -258,7 +258,7 @@ body {
   box-shadow: none;}
 
 .reveal section .book_cover {
-  height: 10vh;
+    width: 10%;
 }
 
 .reveal section .small_img {
